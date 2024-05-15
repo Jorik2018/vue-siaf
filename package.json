@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.4",
     "core-js": "^3.14.0",
-    "isobit-ui": "^0.0.184",
+    "isobit-ui": "^0.2.180",
     "ol": "^6.5.0",
     "phonegap-plugin-barcodescanner": "^8.1.0",
     "vue": "^2.6.13",
